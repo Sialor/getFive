@@ -1,0 +1,1368 @@
+1608510580219	geckodriver	INFO	Listening on 127.0.0.1:51721
+1608510581255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen8VWJc"
+1608510659052	geckodriver	INFO	Listening on 127.0.0.1:44871
+1608510660061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuVBiqj"
+Exiting due to channel error.
+1608510760314	geckodriver	INFO	Listening on 127.0.0.1:35773
+1608510760327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile21ZFmF"
+1608510771256	Marionette	INFO	Listening on port 43455
+1608510771291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=6mXxDKjoHbsL2%2BR66WGmy59XAxE%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608510810852	Marionette	INFO	Stopped listening on port 43455
+1608511149004	geckodriver	INFO	Listening on 127.0.0.1:40315
+1608511149019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaYpep2"
+1608511158877	Marionette	INFO	Listening on port 36557
+1608511158991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608511212502	Marionette	INFO	Stopped listening on port 36557
+1608511373289	geckodriver	INFO	Listening on 127.0.0.1:56521
+1608511373302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOFedtg"
+1608511384817	Marionette	INFO	Listening on port 35701
+1608511384891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=WGKiFu9BnPXWcG%2BsVeJ3FkGJJ2g%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+1608511492732	geckodriver	INFO	Listening on 127.0.0.1:49793
+1608511492746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepthRpL"
+1608511508532	Marionette	INFO	Listening on port 36035
+1608511508600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=7b4TVNY%2FQkQUCSqreciaAYV1UVE%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+1608511524180	Marionette	INFO	Stopped listening on port 35701
+1608511613875	Marionette	INFO	Stopped listening on port 36035
+1608512312490	geckodriver	INFO	Listening on 127.0.0.1:53565
+1608512312504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBcaO5x"
+1608512320425	Marionette	INFO	Listening on port 34863
+1608512320462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=FPdmk0fI81taeCm8IGw9TxTAuNU%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608512364410	Marionette	INFO	Stopped listening on port 34863
+1608512364661	geckodriver	INFO	Listening on 127.0.0.1:58051
+1608512364674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2juq23"
+1608512373364	Marionette	INFO	Listening on port 44239
+1608512373443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=XQjJj%2FI7C6xH35CZ6UEEs11KGyk%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1966: TypeError: currentPanel is undefined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608512458867	Marionette	INFO	Stopped listening on port 44239
+1608512712736	geckodriver	INFO	Listening on 127.0.0.1:59693
+1608512712748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqswnlr"
+1608512721797	Marionette	INFO	Listening on port 42713
+1608512721912	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1608512833215	Marionette	INFO	Stopped listening on port 42713
+1608512866767	geckodriver	INFO	Listening on 127.0.0.1:58515
+1608512866780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekLK36h"
+1608512875564	Marionette	INFO	Listening on port 35809
+1608512875625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=JKztWqXDQZghhN06Y1zMX62NjCs%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608512921524	Marionette	INFO	Stopped listening on port 35809
+1608513506434	geckodriver	INFO	Listening on 127.0.0.1:42111
+1608513506447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledeQuqP"
+1608513515290	Marionette	INFO	Listening on port 36453
+1608513515409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608513587222	Marionette	INFO	Stopped listening on port 36453
+1608513590741	geckodriver	INFO	Listening on 127.0.0.1:58243
+1608513590754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRYjCD8"
+1608513598397	Marionette	INFO	Listening on port 34097
+1608513598547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608513754957	Marionette	INFO	Stopped listening on port 34097
+1608513756260	geckodriver	INFO	Listening on 127.0.0.1:37769
+1608513757271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEelOTl"
+1608513765998	Marionette	INFO	Listening on port 44103
+1608513766059	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1966: TypeError: currentPanel is undefined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608514104693	Marionette	INFO	Stopped listening on port 44103
+1608514105710	geckodriver	INFO	Listening on 127.0.0.1:50953
+1608514105723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeYO8RE"
+1608514114439	Marionette	INFO	Listening on port 32787
+1608514114469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608514124117	Marionette	INFO	Stopped listening on port 32787
+1608518252562	geckodriver	INFO	Listening on 127.0.0.1:40085
+1608518252575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekQmvZ4"
+1608518261130	Marionette	INFO	Listening on port 38133
+1608518261211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608518275138	Marionette	INFO	Stopped listening on port 38133
+1608518334530	geckodriver	INFO	Listening on 127.0.0.1:52285
+1608518334545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesKJDuz"
+1608518343640	Marionette	INFO	Listening on port 37517
+1608518343700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=ZAjDAYq5uT1CYkpuTP6LxuV11pw%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608599928328	Marionette	INFO	Stopped listening on port 37517
+1608599932644	geckodriver	INFO	Listening on 127.0.0.1:41633
+1608599932662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexhMNUv"
+1608599942265	Marionette	INFO	Listening on port 32897
+1608599942400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iti.i-aos.ru/js/materialize.js, line 50: NS_ERROR_UNEXPECTED: 
+1608599974889	Marionette	INFO	Stopped listening on port 32897
+1608599987437	geckodriver	INFO	Listening on 127.0.0.1:48763
+1608599987454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDpFzr0"
+1608599996260	Marionette	INFO	Listening on port 43955
+1608599996293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=qBpfk3O9Kc1ge8sMHTxjluxS8og%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608600022330	Marionette	INFO	Stopped listening on port 43955
+1608600035422	geckodriver	INFO	Listening on 127.0.0.1:55179
+1608600035437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenj5frX"
+1608600044807	Marionette	INFO	Listening on port 42963
+1608600044914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1608600087705	Marionette	INFO	Stopped listening on port 42963
+1608600199130	geckodriver	INFO	Listening on 127.0.0.1:45153
+1608600199147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKS2cEx"
+1608600207840	Marionette	INFO	Listening on port 34577
+1608600207888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=7Vcl22HhjjiG8xI6S2p6V%2Fei78s%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1608600237575	Marionette	INFO	Stopped listening on port 34577
+1608600315259	geckodriver	INFO	Listening on 127.0.0.1:46767
+1608600315277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRVfGMO"
+1608600323241	Marionette	INFO	Listening on port 42467
+1608600323328	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608600478832	Marionette	INFO	Stopped listening on port 42467
+1608602848975	geckodriver	INFO	Listening on 127.0.0.1:38055
+1608602848991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehDiY6F"
+1608602856857	Marionette	INFO	Listening on port 34009
+1608602856943	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]' when calling method: [nsIUpdateTimerManager::registerTimer]
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608602912080	Marionette	INFO	Stopped listening on port 34009
+1608602912761	geckodriver	INFO	Listening on 127.0.0.1:47209
+1608602912776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePfF9bt"
+1608602921093	Marionette	INFO	Listening on port 39047
+1608602921126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=efNtxePFLs2CWDdeLtI1gVDePi4%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+1608602944382	Marionette	INFO	Stopped listening on port 39047
+1608602948384	geckodriver	INFO	Listening on 127.0.0.1:48135
+1608602948402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSKrVBJ"
+1608602957145	Marionette	INFO	Listening on port 43647
+1608602957234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608602970155	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608603034529	Marionette	INFO	Stopped listening on port 43647
+1608603035108	geckodriver	INFO	Listening on 127.0.0.1:53463
+1608603035123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4bpivm"
+1608603043937	Marionette	INFO	Listening on port 40019
+1608603043981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608603056623	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608603380416	geckodriver	INFO	Listening on 127.0.0.1:35519
+1608603380432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK563OP"
+1608603389135	Marionette	INFO	Listening on port 43783
+1608603389213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608603403288	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608603735254	Marionette	INFO	Stopped listening on port 43783
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608603738038	Marionette	INFO	Stopped listening on port 40019
+1608603739047	geckodriver	INFO	Listening on 127.0.0.1:59851
+1608603739064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFE1JNK"
+1608603747391	Marionette	INFO	Listening on port 45455
+1608603747510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=Aamdiv4iawa7u8QapaHi0wKf3hw%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608603861689	Marionette	INFO	Stopped listening on port 45455
+1608603862129	geckodriver	INFO	Listening on 127.0.0.1:52881
+1608603862147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelA9C9L"
+1608603870288	Marionette	INFO	Listening on port 44495
+1608603870421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=ixjs63bmkKAlZngxh1iK%2BteDTlQ%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+1608603891948	geckodriver	INFO	Listening on 127.0.0.1:48749
+1608603891965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9IM8Zg"
+1608603897903	Marionette	INFO	Stopped listening on port 44495
+1608603901207	Marionette	INFO	Listening on port 35987
+1608603901299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1608603949910	geckodriver	INFO	Listening on 127.0.0.1:47283
+1608603950919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWWNOEJ"
+1608603952638	Marionette	INFO	Stopped listening on port 35987
+1608603960842	Marionette	INFO	Listening on port 34267
+1608603960931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1608603985943	Marionette	INFO	Stopped listening on port 34267
+1608604093239	geckodriver	INFO	Listening on 127.0.0.1:33961
+1608604093256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAhCgK0"
+1608604102025	Marionette	INFO	Listening on port 41649
+1608604102097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608604114740	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1608604132752	Marionette	INFO	Stopped listening on port 41649
+1608604164465	geckodriver	INFO	Listening on 127.0.0.1:49561
+1608604164481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZfbeOV"
+1608604173508	Marionette	INFO	Listening on port 45497
+1608604173719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1608604198766	Marionette	INFO	Stopped listening on port 45497
+1608604902097	geckodriver	INFO	Listening on 127.0.0.1:56193
+1608604902113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDv9Tbf"
+1608604910430	Marionette	INFO	Listening on port 44375
+1608604910483	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1608604943065	Marionette	INFO	Stopped listening on port 44375
+1608605144635	geckodriver	INFO	Listening on 127.0.0.1:49055
+1608605144651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3eeJao"
+1608605150816	Marionette	INFO	Listening on port 45849
+1608605152416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608605205725	Marionette	INFO	Stopped listening on port 45849
+1608605207191	geckodriver	INFO	Listening on 127.0.0.1:41271
+1608605207207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilentDMBQ"
+1608605216011	Marionette	INFO	Listening on port 39731
+1608605216051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608605270679	Marionette	INFO	Stopped listening on port 39731
+1608605281218	geckodriver	INFO	Listening on 127.0.0.1:56873
+1608605281235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUMGEgB"
+1608605289118	Marionette	INFO	Listening on port 41929
+1608605289199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1608605323118	Marionette	INFO	Stopped listening on port 41929
+1608605372108	geckodriver	INFO	Listening on 127.0.0.1:33357
+1608605372127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYVBGeh"
+1608605378391	Marionette	INFO	Listening on port 45203
+1608605378603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608605392410	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608605419646	Marionette	INFO	Stopped listening on port 45203
+1608605465024	geckodriver	INFO	Listening on 127.0.0.1:47515
+1608605465039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRsjn1o"
+1608605474372	Marionette	INFO	Listening on port 43867
+1608605474487	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1608605496256	geckodriver	INFO	Listening on 127.0.0.1:46221
+1608605496272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileweeNDX"
+1608605501097	Marionette	INFO	Stopped listening on port 43867
+1608605504645	Marionette	INFO	Listening on port 33905
+1608605505049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608605516838	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1608605532433	Marionette	INFO	Stopped listening on port 33905
+1608607602519	geckodriver	INFO	Listening on 127.0.0.1:50991
+1608607602534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewprhwu"
+1608607609164	Marionette	INFO	Listening on port 37643
+1608607611203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608607625492	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608607628569	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608607661442	Marionette	INFO	Stopped listening on port 37643
+1608607663257	geckodriver	INFO	Listening on 127.0.0.1:54093
+1608607663275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexeDfBB"
+1608607672406	Marionette	INFO	Listening on port 46685
+1608607672525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=K2EWgIIgHBD3ctcintN7nue9gVQ%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608607688152	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608607779689	geckodriver	INFO	Listening on 127.0.0.1:58167
+1608607779706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqxYOcx"
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608607783135	Marionette	INFO	Stopped listening on port 46685
+1608607790118	Marionette	INFO	Listening on port 39383
+1608607790167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608607818080	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608607835367	Marionette	INFO	Stopped listening on port 39383
+1608607840107	geckodriver	INFO	Listening on 127.0.0.1:57507
+1608607840123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelSxyzN"
+1608607848805	Marionette	INFO	Listening on port 40697
+1608607848875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=UeNWYHYc91gR4I0XxX2g5VLoKuU%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+1608607876222	geckodriver	INFO	Listening on 127.0.0.1:42085
+1608607876272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileui8DnS"
+1608607879271	Marionette	INFO	Stopped listening on port 40697
+1608607884672	Marionette	INFO	Listening on port 38991
+1608607884743	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608607900918	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608607961570	Marionette	INFO	Stopped listening on port 38991
+1608607966463	geckodriver	INFO	Listening on 127.0.0.1:47423
+1608607966480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKBIIK0"
+1608607974556	Marionette	INFO	Listening on port 44107
+1608607974644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608609087617	Marionette	INFO	Stopped listening on port 44107
+1608609089325	geckodriver	INFO	Listening on 127.0.0.1:57347
+1608609089341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR03z4N"
+1608609095579	Marionette	INFO	Listening on port 44075
+1608609097305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608609126389	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608609262302	Marionette	INFO	Stopped listening on port 44075
+1608610184137	geckodriver	INFO	Listening on 127.0.0.1:55527
+1608610184153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHYK6xP"
+1608610191548	Marionette	INFO	Listening on port 38521
+1608610191604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608610201927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608610259802	Marionette	INFO	Stopped listening on port 38521
+1608610260156	geckodriver	INFO	Listening on 127.0.0.1:50375
+1608610260171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJipMUx"
+1608610267959	Marionette	INFO	Listening on port 37743
+1608610268022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608610275918	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1608610421885	geckodriver	INFO	Listening on 127.0.0.1:53751
+1608610421902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7FD1wn"
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608610425102	Marionette	INFO	Stopped listening on port 37743
+1608610430782	Marionette	INFO	Listening on port 32773
+1608610430837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=nkxvV8wGSqFvEKxkSodRGlXvzv8%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+1608610441370	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608610565875	Marionette	INFO	Stopped listening on port 32773
+1608610566698	geckodriver	INFO	Listening on 127.0.0.1:33793
+1608610566713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1wre1h"
+1608610575143	Marionette	INFO	Listening on port 41021
+1608610575243	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608610692710	Marionette	INFO	Stopped listening on port 41021
+1608610693736	geckodriver	INFO	Listening on 127.0.0.1:48621
+1608610693748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepdimnS"
+1608610701989	Marionette	INFO	Listening on port 44073
+1608610702074	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608610785830	Marionette	INFO	Stopped listening on port 44073
+1608610786204	geckodriver	INFO	Listening on 127.0.0.1:58663
+1608610786219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFWYkk0"
+1608610794325	Marionette	INFO	Listening on port 45235
+1608610794368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=Y%2FhZXcvkzQNvf5Tk3UcLmcDVNkM%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+1608610806625	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608610868519	Marionette	INFO	Stopped listening on port 45235
+1608611262013	geckodriver	INFO	Listening on 127.0.0.1:53563
+1608611262029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2ynV8I"
+1608611270509	Marionette	INFO	Listening on port 34667
+1608611270566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608611290321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608611458797	Marionette	INFO	Stopped listening on port 34667
+1608611459559	geckodriver	INFO	Listening on 127.0.0.1:52703
+1608611459574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEToI8w"
+1608611468747	Marionette	INFO	Listening on port 35947
+1608611468812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608611480973	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608611488349	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608611523502	geckodriver	INFO	Listening on 127.0.0.1:39063
+1608611523518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewWzcZI"
+1608611523933	Marionette	INFO	Stopped listening on port 35947
+1608611532338	Marionette	INFO	Listening on port 42835
+1608611532429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608629075265	Marionette	INFO	Stopped listening on port 42835
+1608629077063	geckodriver	INFO	Listening on 127.0.0.1:41555
+1608629077093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekkXVFY"
+1608629085577	Marionette	INFO	Listening on port 43205
+1608629085644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=jQs2FMfPR6NnhmKkUzy17i8POqc%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608629244374	Marionette	INFO	Stopped listening on port 43205
+1608629247214	geckodriver	INFO	Listening on 127.0.0.1:58129
+1608629247229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2qJ4yW"
+1608629256267	Marionette	INFO	Listening on port 40379
+1608629256390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608629382066	Marionette	INFO	Stopped listening on port 40379
+1608629382494	geckodriver	INFO	Listening on 127.0.0.1:42325
+1608629382509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenZ3kgy"
+1608629388948	Marionette	INFO	Listening on port 40675
+1608629389160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608629412287	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1608629428185	geckodriver	INFO	Listening on 127.0.0.1:42723
+1608629428201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDkFWuj"
+1608629432223	Marionette	INFO	Stopped listening on port 40675
+1608629438208	Marionette	INFO	Listening on port 39021
+1608629438253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=%2FgZjKZeYY2fvLonXT7hPnLD0qKY%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608629458038	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608629478142	Marionette	INFO	Stopped listening on port 39021
+1608629667188	geckodriver	INFO	Listening on 127.0.0.1:56785
+1608629667207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileySYYjH"
+1608629675206	Marionette	INFO	Listening on port 45843
+1608629675315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://an.yandex.ru/partner-code-bundles/13427/e697b50e77b45ddd8309.js, line 2: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1966: TypeError: currentPanel is undefined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608629823002	Marionette	INFO	Stopped listening on port 45843
+1608629823444	geckodriver	INFO	Listening on 127.0.0.1:41279
+1608629823460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet18lqz"
+1608629832807	Marionette	INFO	Listening on port 38607
+1608629832935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=l8tdz1lf27kDX7DDVfs7Pv4cW%2B0%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608629900547	geckodriver	INFO	Listening on 127.0.0.1:56901
+1608629900559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevTsBer"
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608629903895	Marionette	INFO	Stopped listening on port 38607
+1608629910553	Marionette	INFO	Listening on port 37459
+1608629910686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608629922667	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1966: TypeError: currentPanel is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608630664316	Marionette	INFO	Stopped listening on port 37459
+1608630665623	geckodriver	INFO	Listening on 127.0.0.1:60249
+1608630666632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile52X8c4"
+1608630675883	Marionette	INFO	Listening on port 40807
+1608630675980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=XBkzBJczVpbu8MNcjtg33ImKcYM%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608630808883	Marionette	INFO	Stopped listening on port 40807
+1608630810573	geckodriver	INFO	Listening on 127.0.0.1:44569
+1608630810589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZC3UUd"
+1608630819383	Marionette	INFO	Listening on port 37953
+1608630819430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=AlxctCqU93r2tJsBYTzz2hQElOA%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608630832078	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608630939593	Marionette	INFO	Stopped listening on port 37953
+1608631396068	geckodriver	INFO	Listening on 127.0.0.1:44837
+1608631396084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileetS6eg"
+1608631403948	Marionette	INFO	Listening on port 37517
+1608631404026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608631611292	Marionette	INFO	Stopped listening on port 37517
+1608631613987	geckodriver	INFO	Listening on 127.0.0.1:55587
+1608631614004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFyZsUk"
+1608631621964	Marionette	INFO	Listening on port 34621
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 244: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsINavHistoryService.removeObserver]
+1608631624387	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1608631628827	Marionette	INFO	Stopped listening on port 34621
+1608631636012	geckodriver	INFO	Listening on 127.0.0.1:42479
+1608631636031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCYrD5n"
+1608631644953	Marionette	INFO	Listening on port 35095
+1608631644995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608631721416	geckodriver	INFO	Listening on 127.0.0.1:39805
+1608631721436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOTEIKL"
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608631725060	Marionette	INFO	Stopped listening on port 35095
+1608631731274	Marionette	INFO	Listening on port 37743
+1608631731314	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1966: TypeError: currentPanel is undefined
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1013:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608632005287	Marionette	INFO	Stopped listening on port 37743
+1608632007611	geckodriver	INFO	Listening on 127.0.0.1:42659
+1608632007632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOGGz8t"
+1608632016398	Marionette	INFO	Listening on port 36021
+1608632016474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=vRJcGM5qy0NEpwvCq9lZwBnqEoQ%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608632131027	Marionette	INFO	Stopped listening on port 36021
+1608632132784	geckodriver	INFO	Listening on 127.0.0.1:36685
+1608632132800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNiX7IK"
+1608632140789	Marionette	INFO	Listening on port 36033
+1608632141067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608632155405	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1966: TypeError: currentPanel is undefined
+1608633558430	geckodriver	INFO	Listening on 127.0.0.1:59203
+1608633558456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8VclqI"
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608633563260	Marionette	INFO	Stopped listening on port 36033
+1608633570202	Marionette	INFO	Listening on port 36991
+1608633570243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=YIHNv5cWpZYql4uWRcLG1jLhjVc%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608633667655	Marionette	INFO	Stopped listening on port 36991
+1608633671106	geckodriver	INFO	Listening on 127.0.0.1:58945
+1608633671123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenqN9nv"
+1608633679097	Marionette	INFO	Listening on port 42453
+1608633679261	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608633985218	Marionette	INFO	Stopped listening on port 42453
+1608633987386	geckodriver	INFO	Listening on 127.0.0.1:59741
+1608633987401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevL0wap"
+1608633996099	Marionette	INFO	Listening on port 44977
+1608633996383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=a0hjDhHPETNHgslSqxXvBiIBxPI%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608634166824	Marionette	INFO	Stopped listening on port 44977
+1608634168016	geckodriver	INFO	Listening on 127.0.0.1:42935
+1608634168032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFwalBy"
+1608634176511	Marionette	INFO	Listening on port 42439
+1608634176597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1608635102473	Marionette	INFO	Stopped listening on port 42439
+1608635104266	geckodriver	INFO	Listening on 127.0.0.1:42075
+1608635104305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBJcBsp"
+1608635113138	Marionette	INFO	Listening on port 46137
+1608635113210	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608635200359	Marionette	INFO	Stopped listening on port 46137
+1608635271358	geckodriver	INFO	Listening on 127.0.0.1:44393
+1608635271373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOnJp1Z"
+1608635280549	Marionette	INFO	Listening on port 41607
+1608635280616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=svT5AlOIYl%2F2NqaBzf7oVBGczzE%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608635371455	Marionette	INFO	Stopped listening on port 41607
+1608635387705	geckodriver	INFO	Listening on 127.0.0.1:51705
+1608635387721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC4AOox"
+1608635396510	Marionette	INFO	Listening on port 39321
+1608635396569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608635407892	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608635662180	Marionette	INFO	Stopped listening on port 39321
+1608635783547	geckodriver	INFO	Listening on 127.0.0.1:55653
+1608635783564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV0Yf3H"
+1608635792299	Marionette	INFO	Listening on port 42797
+1608635792422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608635806139	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608636094698	Marionette	INFO	Stopped listening on port 42797
+1608636096099	geckodriver	INFO	Listening on 127.0.0.1:50831
+1608636096116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWXDpQk"
+1608636105485	Marionette	INFO	Listening on port 40291
+1608636105576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=lMalA7fxfbnkuHKa6JOMFHCG4ts%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608636294941	Marionette	INFO	Stopped listening on port 40291
+1608636364211	geckodriver	INFO	Listening on 127.0.0.1:33601
+1608636364227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledadIzV"
+1608636372380	Marionette	INFO	Listening on port 45839
+1608636372470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608636385550	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608636455078	geckodriver	INFO	Listening on 127.0.0.1:57497
+1608636455096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecO4O4S"
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608636458182	Marionette	INFO	Stopped listening on port 45839
+1608636465221	Marionette	INFO	Listening on port 40461
+1608636465264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608636477020	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1966: TypeError: currentPanel is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608636569593	Marionette	INFO	Stopped listening on port 40461
+1608636570015	geckodriver	INFO	Listening on 127.0.0.1:36787
+1608636570033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK0ty41"
+1608636578185	Marionette	INFO	Listening on port 38955
+1608636578279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608637756843	Marionette	INFO	Stopped listening on port 38955
+1608638577798	geckodriver	INFO	Listening on 127.0.0.1:44879
+1608638577836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTZH0q2"
+1608638587522	Marionette	INFO	Listening on port 36725
+1608638587579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=%2F%2BWMwv8qhVoGzgxHTPOdEv1FajU%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608648569984	Marionette	INFO	Stopped listening on port 36725
+1608653533241	geckodriver	INFO	Listening on 127.0.0.1:50055
+1608653533284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZonqCx"
+1608653541222	Marionette	INFO	Listening on port 39247
+1608653541331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=IuOrYoJNHvbsLWfkCQ%2F96SeRiF4%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608653649981	Marionette	INFO	Stopped listening on port 39247
+1608653650218	geckodriver	INFO	Listening on 127.0.0.1:59281
+1608653650232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezoIuyr"
+1608653657679	Marionette	INFO	Listening on port 45737
+1608653657774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608653705474	Marionette	INFO	Stopped listening on port 45737
+1608656289674	geckodriver	INFO	Listening on 127.0.0.1:33727
+1608656289687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepiMqwj"
+1608656297415	Marionette	INFO	Listening on port 46223
+1608656297495	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: http://pythonicway.com/templates/jp_exquisite/js/slimbox.js, line 6: TypeError: Browser.Engine is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608659191557	Marionette	INFO	Stopped listening on port 46223
+1608659192321	geckodriver	INFO	Listening on 127.0.0.1:34675
+1608659192361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY6SOeH"
+1608659200294	Marionette	INFO	Listening on port 45621
+1608659200399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608659302772	Marionette	INFO	Stopped listening on port 45621
+1608659303039	geckodriver	INFO	Listening on 127.0.0.1:35671
+1608659303055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezPfZTf"
+1608659311790	Marionette	INFO	Listening on port 36449
+1608659311893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608659386346	Marionette	INFO	Stopped listening on port 36449
+1608659386647	geckodriver	INFO	Listening on 127.0.0.1:55821
+1608659386662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ2RuMY"
+1608659392786	Marionette	INFO	Listening on port 44455
+1608659392969	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1608659558432	geckodriver	INFO	Listening on 127.0.0.1:56985
+1608659558451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7w9vqH"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608659561419	Marionette	INFO	Stopped listening on port 44455
+1608659567148	Marionette	INFO	Listening on port 44925
+1608659567196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608659654254	Marionette	INFO	Stopped listening on port 44925
+1608659655191	geckodriver	INFO	Listening on 127.0.0.1:57011
+1608659655207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilens7yHC"
+1608659663831	Marionette	INFO	Listening on port 38333
+1608659663890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=kowb%2BcPYGk3lblB1PFhTGjFrlDc%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+1608659738630	geckodriver	INFO	Listening on 127.0.0.1:53837
+1608659738647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePOPw3f"
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608659741472	Marionette	INFO	Stopped listening on port 38333
+1608659745141	Marionette	INFO	Listening on port 41617
+1608659746947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=1lgRQJVj2uYuNm9ts6amykwywHs%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript warning: https://www.onlinegdb.com/online_python_compiler, line 818: unreachable code after return statement
+JavaScript warning: https://www.onlinegdb.com/online_python_compiler, line 823: unreachable code after return statement
+JavaScript warning: https://www.onlinegdb.com/public/js/main.js?v=34, line 3287: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript warning: https://www.onlinegdb.com/online_python_compiler, line 818: unreachable code after return statement
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608660096240	Marionette	INFO	Stopped listening on port 41617
+1608660097429	geckodriver	INFO	Listening on 127.0.0.1:44169
+1608660097445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1f1zln"
+1608660104799	Marionette	INFO	Listening on port 39605
+1608660104916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608660414600	Marionette	INFO	Stopped listening on port 39605
+1608661332700	geckodriver	INFO	Listening on 127.0.0.1:47295
+1608661332717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile89fyiI"
+1608661340299	Marionette	INFO	Listening on port 42867
+1608661340371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=bcLaAsJBMjZvZs7CzxGQv8rO0tE%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1608662849976	Marionette	INFO	Stopped listening on port 42867
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1608729545940	geckodriver	INFO	Listening on 127.0.0.1:35929
+1608729546596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezAV4co"
+1608729557884	Marionette	INFO	Listening on port 43487
+1608729557940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608729737608	Marionette	INFO	Stopped listening on port 43487
+1608729738199	geckodriver	INFO	Listening on 127.0.0.1:42475
+1608729738215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileehczSI"
+1608729745349	Marionette	INFO	Listening on port 42431
+1608729745450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=ZMB30cUrlYKkoq6AaYWzYj7af3Y%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608729990219	geckodriver	INFO	Listening on 127.0.0.1:53799
+1608729990236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEfkrIt"
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608729995634	Marionette	INFO	Stopped listening on port 42431
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: callAddonListeners :: line 1571\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2520\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1608730009625	geckodriver	INFO	Listening on 127.0.0.1:37815
+1608730009641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD9CI6o"
+1608730017875	Marionette	INFO	Listening on port 35419
+1608730018030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608730081208	Marionette	INFO	Stopped listening on port 35419
+1608730081850	geckodriver	INFO	Listening on 127.0.0.1:45985
+1608730081865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1mhye1"
+1608730090106	Marionette	INFO	Listening on port 42313
+1608730090201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=ZZuz47Cz98CQN%2Bd4Js0HFAxl%2BWM%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608730134292	Marionette	INFO	Stopped listening on port 42313
+1608730215753	geckodriver	INFO	Listening on 127.0.0.1:42581
+1608730215796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletqmglE"
+1608730224938	Marionette	INFO	Listening on port 38699
+1608730225092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=k%2B%2FJSkXhwZIBO0zhsfVy98X63kg%3D&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608730256410	Marionette	INFO	Stopped listening on port 38699
+1608747449842	geckodriver	INFO	Listening on 127.0.0.1:43889
+1608747450840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehoyUI7"
+1608747466083	Marionette	INFO	Listening on port 36043
+1608747466123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608747644216	Marionette	INFO	Stopped listening on port 36043
+1608747644477	geckodriver	INFO	Listening on 127.0.0.1:39537
+1608747644490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq7TRD7"
+1608747652355	Marionette	INFO	Listening on port 42707
+1608747652421	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608747888676	Marionette	INFO	Stopped listening on port 42707
+1608748033542	geckodriver	INFO	Listening on 127.0.0.1:35459
+1608748033555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletMEpYm"
+1608748042327	Marionette	INFO	Listening on port 43347
+1608748042382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=C4c_NUxkrYLri60eTFhtEHvdGL8&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608748147134	Marionette	INFO	Stopped listening on port 43347
+1608789990659	geckodriver	INFO	Listening on 127.0.0.1:35595
+1608789990717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKtFnro"
+1608790000045	Marionette	INFO	Listening on port 41693
+1608790000293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=Zh6w17UM9ITTw5QFE4nAWw8JE78&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608790014790	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608790099119	Marionette	INFO	Stopped listening on port 41693
+1608790109343	geckodriver	INFO	Listening on 127.0.0.1:60367
+1608790109357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefKQWEE"
+1608790116348	Marionette	INFO	Listening on port 36865
+1608790118145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=3ptkwSMXqMc41mJlH3pbr0WqoUI&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608790406408	Marionette	INFO	Stopped listening on port 36865
+1608790407928	geckodriver	INFO	Listening on 127.0.0.1:44333
+1608790407944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6AnFO9"
+1608790415956	Marionette	INFO	Listening on port 40707
+1608790416607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=qcBe19muaYqnGKceGEgbLaHqqYQ&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1608792568882	Marionette	INFO	Stopped listening on port 40707
+1608793281553	geckodriver	INFO	Listening on 127.0.0.1:37659
+1608793282492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledgkI80"
+1608793296387	Marionette	INFO	Listening on port 37033
+1608793296861	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608793392946	Marionette	INFO	Stopped listening on port 37033
+1608793428936	geckodriver	INFO	Listening on 127.0.0.1:33323
+1608793428953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqynWFb"
+1608793436728	Marionette	INFO	Listening on port 42691
+1608793436806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=DQMNSww-vr96w19FhbM2HPVGCe4&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608793553761	Marionette	INFO	Stopped listening on port 42691
+1608793986613	geckodriver	INFO	Listening on 127.0.0.1:42501
+1608793986629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletVlbbN"
+1608793994375	Marionette	INFO	Listening on port 41513
+1608793994484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=1NnFBFYsmNAYwj82SIi-JoTlaEI&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608794087219	Marionette	INFO	Stopped listening on port 41513
+1608794126930	geckodriver	INFO	Listening on 127.0.0.1:40389
+1608794126946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuzfeUw"
+1608794135420	Marionette	INFO	Listening on port 42669
+1608794135483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608794226847	Marionette	INFO	Stopped listening on port 42669
+1608794227138	geckodriver	INFO	Listening on 127.0.0.1:37519
+1608794227162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFShdyY"
+1608794235542	Marionette	INFO	Listening on port 34733
+1608794235607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=KNP-0KI74-M_5Sa0T6aMz5NBGAs&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608794768949	Marionette	INFO	Stopped listening on port 34733
+1608795095923	geckodriver	INFO	Listening on 127.0.0.1:59117
+1608795095939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecp4g5e"
+1608795104317	Marionette	INFO	Listening on port 37609
+1608795104370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608795251859	Marionette	INFO	Stopped listening on port 37609
+1608795785882	geckodriver	INFO	Listening on 127.0.0.1:52935
+1608795785900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4WziEK"
+1608795793681	Marionette	INFO	Listening on port 40533
+1608795793723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608796259991	Marionette	INFO	Stopped listening on port 40533
+1608796272123	geckodriver	INFO	Listening on 127.0.0.1:50349
+1608796272140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDldBzy"
+1608796279854	Marionette	INFO	Listening on port 37075
+1608796279958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://an.yandex.ru/partner-code-bundles/13435/dbb674ae1bc290eafa3d.js, line 2: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608796380336	Marionette	INFO	Stopped listening on port 37075
+1608796388733	geckodriver	INFO	Listening on 127.0.0.1:39319
+1608796388750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek0oS0b"
+1608796397265	Marionette	INFO	Listening on port 42277
+1608796397317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608796517385	Marionette	INFO	Stopped listening on port 42277
+1608796518800	geckodriver	INFO	Listening on 127.0.0.1:41659
+1608796518815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecgwOQj"
+1608796526249	Marionette	INFO	Listening on port 41943
+1608796526434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=wRO6HCVDm3gkKgQV7iyquP0-iyc&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1608796659245	geckodriver	INFO	Listening on 127.0.0.1:56433
+1608796659263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepZd1ec"
+1608796666756	Marionette	INFO	Listening on port 44071
+1608796666809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608796895904	Marionette	INFO	Stopped listening on port 44071
+1608796927834	geckodriver	INFO	Listening on 127.0.0.1:48603
+1608796927851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUNI8Yl"
+1608796936005	Marionette	INFO	Listening on port 39727
+1608796936084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608797672860	Marionette	INFO	Stopped listening on port 39727
+1608799336432	geckodriver	INFO	Listening on 127.0.0.1:38441
+1608799336450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0SNwyT"
+1608799344849	Marionette	INFO	Listening on port 45461
+1608799344895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=OLMljgg4ycHzw6AknTtVDNMsXjY&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608799596789	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608799598740	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608799612058	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608799635150	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608799638042	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608799648137	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608799650161	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1608799652884	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608799881977	Marionette	INFO	Stopped listening on port 45461
+1608800016026	geckodriver	INFO	Listening on 127.0.0.1:43973
+1608800016044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6cWqCi"
+1608800023460	Marionette	INFO	Listening on port 35775
+1608800023517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=EMeSsEfE98SEouwtSL-azIQFVjI&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608800084578	Marionette	INFO	Stopped listening on port 35775
+1608800315329	geckodriver	INFO	Listening on 127.0.0.1:60709
+1608800315345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE9Uopf"
+1608800323643	Marionette	INFO	Listening on port 39333
+1608800323685	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608801071975	Marionette	INFO	Stopped listening on port 39333
+1608801077237	geckodriver	INFO	Listening on 127.0.0.1:47819
+1608801077255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQaMRAc"
+1608801084994	Marionette	INFO	Listening on port 36057
+1608801085117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608801125347	geckodriver	INFO	Listening on 127.0.0.1:60983
+1608801125365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQAL4o9"
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608801130500	Marionette	INFO	Stopped listening on port 36057
+1608801132755	Marionette	INFO	Listening on port 42245
+1608801132804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=P_8teVtOuyWiZxr4i-Z7gxZ9BKw&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101, line 6: Script terminated by timeout at:
+Sd.prototype.clearTimeout@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:24856
+df.prototype.cancel@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:34454
+th@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:60483
+qh.prototype.Db@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:60329
+ef/a.g<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:34571
+pe/</<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:28491
+me/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:28227
+Xd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25455
+me@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:28338
+pe/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:28464
+Xd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25455
+Xd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25499
+
+JavaScript warning: https://an.yandex.ru/partner-code-bundles/13427/e697b50e77b45ddd8309.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608803888479	Marionette	INFO	Stopped listening on port 42245
+1608804296652	geckodriver	INFO	Listening on 127.0.0.1:43391
+1608804296670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5HFO4V"
+1608804303905	Marionette	INFO	Listening on port 46405
+1608804304008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608804901670	Marionette	INFO	Stopped listening on port 46405
+1608805187625	geckodriver	INFO	Listening on 127.0.0.1:55793
+1608805187642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVOunFO"
+1608805195726	Marionette	INFO	Listening on port 43407
+1608805195785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608805507683	Marionette	INFO	Stopped listening on port 43407
+1608805509015	geckodriver	INFO	Listening on 127.0.0.1:55333
+1608805509031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaV08Cj"
+1608805516638	Marionette	INFO	Listening on port 33645
+1608805516690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608805623196	Marionette	INFO	Stopped listening on port 33645
+1608805923377	geckodriver	INFO	Listening on 127.0.0.1:40339
+1608805923396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5VfEAq"
+1608805931858	Marionette	INFO	Listening on port 35047
+1608805931979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608806483899	Marionette	INFO	Stopped listening on port 35047
+1608806494245	geckodriver	INFO	Listening on 127.0.0.1:46009
+1608806494259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelborlI"
+1608806502605	Marionette	INFO	Listening on port 44717
+1608806502701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1608806561635	geckodriver	INFO	Listening on 127.0.0.1:43333
+1608806561650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3L8mBD"
+1608806567702	Marionette	INFO	Listening on port 34775
+1608806567788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608806570145	Marionette	INFO	Stopped listening on port 44717
+1608806649750	Marionette	ERROR	[20] No reply from Marionette:Register
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608806652264	Marionette	INFO	Stopped listening on port 34775
+1608806712287	geckodriver	INFO	Listening on 127.0.0.1:50675
+1608806712303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKGg3wq"
+1608806720442	Marionette	INFO	Listening on port 40925
+1608806720542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608806759145	geckodriver	INFO	Listening on 127.0.0.1:57377
+1608806759161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileunUJdH"
+1608806767212	Marionette	INFO	Listening on port 46383
+1608806767289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608806769566	Marionette	INFO	Stopped listening on port 40925
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608806840303	Marionette	INFO	Stopped listening on port 46383
+1608807335527	geckodriver	INFO	Listening on 127.0.0.1:39911
+1608807335562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYpzGeT"
+1608807341602	Marionette	INFO	Listening on port 36359
+1608807341697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=qz1V5JhR0z1JIsQBpBX1b0vZ6Yo&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608807407988	geckodriver	INFO	Listening on 127.0.0.1:37633
+1608807408028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5Mi9N8"
+1608807408988	Marionette	INFO	Stopped listening on port 36359
+1608807414227	Marionette	INFO	Listening on port 43067
+1608807414254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=NLXa9YxoPqOPFszqGuT1nmLzfkg&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608807496744	Marionette	INFO	Stopped listening on port 43067
+1608807497181	geckodriver	INFO	Listening on 127.0.0.1:60233
+1608807497194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAwW0Pz"
+1608807503257	Marionette	INFO	Listening on port 40569
+1608807503329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=sqvbwSNRtqi18uhd0HYwTsUu3zw&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+1608807832405	Marionette	INFO	Stopped listening on port 40569
+1608807832891	geckodriver	INFO	Listening on 127.0.0.1:43899
+1608807832905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMKS6ka"
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: "Could not load engine google@search.mozilla.org: Error: Data is not ready."
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2520\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2520\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2520\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2520\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource:///modules/sessionstore/SessionCookies.jsm, line 197: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICookieManager.sessionCookies]
+1608807847641	geckodriver	INFO	Listening on 127.0.0.1:54437
+1608807847658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3p7N6x"
+1608807854986	Marionette	INFO	Listening on port 35391
+1608807855095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=CdQxd9CHgFQAD94jyKoJ1pwnKEo&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,n,h, line 514: ReferenceError: _iframeWait is not defined
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608809025613	Marionette	INFO	Stopped listening on port 35391
+1608809073879	geckodriver	INFO	Listening on 127.0.0.1:60555
+1608809073896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTiTs6F"
+1608809082898	Marionette	INFO	Listening on port 44227
+1608809082948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=qzRCghYDdoO1wgxcqLbgWMqVe1w&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608810105101	geckodriver	INFO	Listening on 127.0.0.1:46029
+1608810105137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLDbQnG"
+1608810114079	Marionette	INFO	Listening on port 41495
+1608810114169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=4MoLdXQtvm3wLldERr_5Dw2cCfs&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608810561521	Marionette	INFO	Stopped listening on port 41495
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608810583747	Marionette	INFO	Stopped listening on port 44227
+1608810585186	geckodriver	INFO	Listening on 127.0.0.1:33855
+1608810585203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOHc109"
+1608810593355	Marionette	INFO	Listening on port 46071
+1608810593453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1608812225442	Marionette	INFO	Stopped listening on port 46071
+1608812362347	geckodriver	INFO	Listening on 127.0.0.1:49289
+1608812362384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTd5yj4"
+1608812370562	Marionette	INFO	Listening on port 39747
+1608812370638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=JHYQ7sNFZLWpex1oM6rAsH9ylyc&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608813223354	Marionette	INFO	Stopped listening on port 39747
+1608813265911	geckodriver	INFO	Listening on 127.0.0.1:49743
+1608813265929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ5oYKa"
+1608813274755	Marionette	INFO	Listening on port 40293
+1608813274865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=u0SlOEaK3OwMUkg5hxqbGtlZY3Q&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608813915057	geckodriver	INFO	Listening on 127.0.0.1:52951
+1608813915074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHy1OG7"
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608813919843	Marionette	INFO	Stopped listening on port 40293
+1608813924665	Marionette	INFO	Listening on port 42159
+1608813924709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://p.analytic.press/ad/base.js?id=8b8304b21985b24c681a8d02e8ef3a960d01&rid=DemWfIyTq6THFFjYXyqQ7Z0kTYI&reg=00&referer=http%3A%2F%2Fiti.i-aos.ru%2Fregister&kw=%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%2C%25%25iti%25i-aos%25ru%25%25&utcoffset=420&rbt=c,i,h, line 514: ReferenceError: _iframeWait is not defined
+1608814472513	geckodriver	INFO	Listening on 127.0.0.1:39639
+1608814472531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAnajV1"
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608814475697	Marionette	INFO	Stopped listening on port 42159
+1608814480882	Marionette	INFO	Listening on port 46825
+1608814481077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608814602409	geckodriver	INFO	Listening on 127.0.0.1:35809
+1608814602429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIyoiZ1"
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1608814605568	Marionette	INFO	Stopped listening on port 46825
+1608814610611	Marionette	INFO	Listening on port 41051
+1608814610680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1608814687914	Marionette	INFO	Stopped listening on port 41051
